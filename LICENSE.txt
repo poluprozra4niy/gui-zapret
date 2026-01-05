@@ -46,7 +46,7 @@ the terms of the MIT License.
 
 ------------------------------------------------------------
 
-3. Zapret-discord-youtube (Modified binaries/scripts)
+3. Zapret-discord-youtube (Modified scripts)
 Copyright (c) 2024–2025 Flowseal
 License: MIT License
 Repository: https://github.com/Flowseal/zapret-discord-youtube
