@@ -67,7 +67,7 @@
       }
     ],
     "directories": {
-      "output": "release"
+      "output": "zapret-build"
     },
     "files": [
       "dist/**/*",

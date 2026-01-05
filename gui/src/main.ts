@@ -161,8 +161,7 @@ function createWindow() {
     }
 
     // Handle minimize to tray
-    win.on('minimize', (event: any) => {
-        event.preventDefault()
+    win.on('minimize', () => {
         win?.hide()
     })
 
