@@ -1,0 +1,27 @@
+# Dependencies
+gui/node_modules/
+node_modules/
+
+# Build outputs
+gui/dist/
+gui/dist-electron/
+gui/release/
+
+# Test results
+/utils/test results
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Electron cache
+.electron/

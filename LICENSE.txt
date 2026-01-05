@@ -1,0 +1,76 @@
+MIT License
+
+Copyright (c) 2026 poluprozra4niy
+
+This software consists of a GUI application and bundled third-party components.
+Each component is licensed under its respective license as described below.
+
+============================================================
+PRIMARY SOFTWARE COMPONENT
+============================================================
+
+1. GUI Application
+Copyright (c) 2026 poluprozra4niy
+License: MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+============================================================
+THIRD-PARTY COMPONENTS
+============================================================
+
+2. Electron (GUI Framework)
+Copyright (c) OpenJS Foundation and contributors
+License: MIT License
+Source code: https://github.com/electron/electron
+
+Electron is used as an application framework and runtime environment.
+The Electron license permits use, modification, and redistribution under
+the terms of the MIT License.
+
+------------------------------------------------------------
+
+3. Zapret-discord-youtube (Modified binaries/scripts)
+Copyright (c) 2024–2025 Flowseal
+License: MIT License
+Repository: https://github.com/Flowseal/zapret-discord-youtube
+
+------------------------------------------------------------
+
+4. Zapret (Original Core)
+Copyright (c) 2016–2025 bol-van
+License: MIT License
+Repository: https://github.com/bol-van/zapret
+
+------------------------------------------------------------
+
+5. WinDivert
+Copyright (c) basil00
+License: GNU Lesser General Public License (LGPL) Version 3
+        or GNU General Public License (GPL) Version 2
+
+Source code: https://github.com/basil00/WinDivert
+
+WinDivert is bundled as an unmodified third-party component.
+Its source code is publicly available at the link above, in compliance
+with the requirements of the LGPL/GPL licenses.
+
+============================================================
+END OF LICENSE
+============================================================
