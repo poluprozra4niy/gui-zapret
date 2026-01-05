@@ -4,13 +4,13 @@
 
 **Современный графический интерфейс для [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube)**
 
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/gui-zapret?include_prereleases&style=for-the-badge)](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+[![Release](https://img.shields.io/github/v/release/poluprozra4niy/gui-zapret?include_prereleases&style=for-the-badge)](https://github.com/poluprozra4niy/gui-zapret/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.txt)
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/poluprozra4niy/gui-zapret/releases)
 
 [🇷🇺 Русский](#-описание) • [🇬🇧 English](#-description)
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/gui-zapret/main/gui/zapret.png" alt="Zapret GUI" width="128">
+<img src="https://raw.githubusercontent.com/poluprozra4niy/gui-zapret/main/gui/zapret.png" alt="Zapret GUI" width="128">
 
 </div>
 
@@ -40,14 +40,14 @@
 
 ### Способ 1: Установщик (рекомендуется)
 
-1. Скачайте последнюю версию со страницы [Releases](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+1. Скачайте последнюю версию со страницы [Releases](https://github.com/poluprozra4niy/gui-zapret/releases)
 2. Запустите `zapret-gui Setup X.X.X.exe` **от имени администратора**
 3. Следуйте инструкциям установщика
 4. Запустите приложение из меню "Пуск"
 
 ### Способ 2: Portable версия
 
-1. Скачайте архив `zapret-gui-portable.zip` со страницы [Releases](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+1. Скачайте архив `zapret-gui-portable.zip` со страницы [Releases](https://github.com/poluprozra4niy/gui-zapret/releases)
 2. Распакуйте в любую папку
 3. Запустите `zapret-gui.exe` **от имени администратора**
 
@@ -212,7 +212,7 @@ gui-zapret/
 
 > [!CAUTION]
 > **Не скачивайте программу с неофициальных источников!**
-> Официальные релизы только здесь: [Releases](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+> Официальные релизы только здесь: [Releases](https://github.com/poluprozra4niy/gui-zapret/releases)
 
 > [!NOTE]
 > Zapret разработан [bol-van](https://github.com/bol-van/zapret).
@@ -263,7 +263,7 @@ Zapret (winws.exe) распространяется под собственно�
 
 ### Installation
 
-1. Download from [Releases](https://github.com/YOUR_USERNAME/gui-zapret/releases)
+1. Download from [Releases](https://github.com/poluprozra4niy/gui-zapret/releases)
 2. Run installer **as Administrator**
 3. Launch from Start menu
 
