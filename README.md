@@ -230,8 +230,19 @@ Zapret (winws.exe) распространяется под собственно�
 
 ## 🙏 Благодарности
 
-- [bol-van](https://github.com/bol-van) — автор оригинального Zapret
-- [flowseal](https://github.com/flowseal) — автор модификации [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube)
+### 💖 Особая благодарность
+
+**[flowseal](https://github.com/flowseal)** — автор модификации [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube), которая легла в основу этого GUI. Спасибо за адаптацию Zapret для Discord и YouTube!
+
+### 💰 Поддержать оригинального разработчика
+
+**[bol-van](https://github.com/bol-van)** — автор оригинального Zapret.
+
+Если вы хотите поддержать разработчика Zapret, вы можете сделать это здесь:
+👉 **[Поддержать bol-van](https://github.com/bol-van/zapret?tab=readme-ov-file#поддержать-разработчика)**
+
+### Также благодарим
+
 - [Electron](https://www.electronjs.org/) — фреймворк приложения
 - [React](https://react.dev/) — UI библиотека
 - [Tailwind CSS](https://tailwindcss.com/) — стили
