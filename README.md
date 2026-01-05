@@ -2,7 +2,7 @@
 
 # 🛡️ Zapret GUI
 
-**Современный графический интерфейс для [Zapret](https://github.com/bol-van/zapret)**
+**Современный графический интерфейс для [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube)**
 
 [![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/gui-zapret?include_prereleases&style=for-the-badge)](https://github.com/YOUR_USERNAME/gui-zapret/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.txt)
@@ -18,7 +18,7 @@
 
 ## 🇷🇺 Описание
 
-**Zapret GUI** — это удобный графический интерфейс для управления утилитой [Zapret](https://github.com/bol-van/zapret), которая позволяет обходить DPI-блокировки интернет-провайдеров.
+**Zapret GUI** — это удобный графический интерфейс для управления модификацией [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube) от **flowseal**, которая основана на оригинальном [Zapret](https://github.com/bol-van/zapret) от **bol-van**. Позволяет обходить DPI-блокировки интернет-провайдеров.
 
 ### ✨ Возможности
 
@@ -230,7 +230,8 @@ Zapret (winws.exe) распространяется под собственно�
 
 ## 🙏 Благодарности
 
-- [bol-van](https://github.com/bol-van) — автор Zapret
+- [bol-van](https://github.com/bol-van) — автор оригинального Zapret
+- [flowseal](https://github.com/flowseal) — автор модификации [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube)
 - [Electron](https://www.electronjs.org/) — фреймворк приложения
 - [React](https://react.dev/) — UI библиотека
 - [Tailwind CSS](https://tailwindcss.com/) — стили
@@ -247,7 +248,7 @@ Zapret (winws.exe) распространяется под собственно�
 
 ## 🇬🇧 Description
 
-**Zapret GUI** is a modern graphical interface for managing [Zapret](https://github.com/bol-van/zapret) — a DPI bypass utility.
+**Zapret GUI** is a modern graphical interface for [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube) by **flowseal**, based on [Zapret](https://github.com/bol-van/zapret) by **bol-van** — a DPI bypass utility.
 
 ### Features
 
