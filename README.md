@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE.txt)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/poluprozra4niy/gui-zapret/releases)
 
-[🇷🇺 Русский](#-описание) • [🇬🇧 English](#-description)
+[🇷🇺 Русский](#-описание) • [�� English](#-description)
 
 <img src="https://raw.githubusercontent.com/poluprozra4niy/gui-zapret/main/gui/zapret.png" alt="Zapret GUI" width="128">
 
@@ -246,7 +246,7 @@ Zapret (winws.exe) распространяется под собственно�
 
 ---
 
-## 🇬🇧 Description
+## �� Description
 
 **Zapret GUI** is a modern graphical interface for [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube) by **flowseal**, based on [Zapret](https://github.com/bol-van/zapret) by **bol-van** — a DPI bypass utility.
 
